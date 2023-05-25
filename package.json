@@ -1,8 +1,8 @@
 {
-  "name": "advanced-forin",
+  "name": "advanced-destructuring",
   "version": "1.0.0",
   "description": "",
-  "main": "src/function.js",
+  "main": "src/showAttacks.js",
   "scripts": {
     "test": "jest --coverage ",
     "lint": "eslint .",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Liaksej/ajs-advanced-forIn.git"
+    "url": "git+https://github.com/Liaksej/advanced-destructuring.git"
   },
   "author": "Liaksej",
   "license": "ISC",
